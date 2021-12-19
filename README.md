@@ -2,7 +2,7 @@
 ~~There's not much to say, but I will expand this once I have new info to share~~
 
 ### About me personally
-I'm a newbie programmer, currently learning c# at school, with some motivation issues. I'm trying to get better, but I tend to have problems finishing longer tutorial series. I also have the attention span of a goldfish, which doesn't make things easier. Either way, I'll eventually get through it, I hope.
+I'm a newbie programmer, currently learning c# at school, with some motivation issues. My progress is slow, but steady enough.
 
 
 I likely won't be an amazing well-known programmer in the future, but my goal is to get a nice IT job and personally create some good open-source software to make people's lives a little better :D
