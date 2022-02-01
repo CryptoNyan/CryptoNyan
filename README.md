@@ -19,6 +19,8 @@ Yep, that's about it. But hey, I still got a lot of years to learn new things. A
   * Learning C# at school
 * Q2 2021 - Q3 2021
   * Learned Unity basics
+* Q1 2022 - Unkown
+  * Learning frontend web dev through FrontendMasters
 
 ### Contacting me
 If for whatever reason you need to contact me, send me a Twitter dm. I don't check that account often though, as I have no clue why anyone would want to message me, so please be patient.
