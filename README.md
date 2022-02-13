@@ -2,17 +2,17 @@
 ~~There's not much to say, but I will expand this once I have new info to share~~
 
 ### About me personally
-I'm a newbie programmer, currently learning c# at school, with some motivation issues. My progress is slow, but steady enough.
+I'm a newbie programmer, currently learning c# at school, and Frontend Web Development at home.
 
-
-I likely won't be an amazing well-known programmer in the future, but my goal is to get a nice IT job and personally create some good open-source software to make people's lives a little better :D
+My goal is to get a nice IT job and personally create some good open-source software to make people's lives a little better :D
 
 ### My programming skills
 | Language | Skill Level |
 | --- | --- |
 |C# | Beginner |
+|JavaScript | Very Basic |
 
-Yep, that's about it. But hey, I still got a lot of years to learn new things. After I get to at least intermediate c#, I intend to check out c++, possibly javascript, and maybe even Rust. Things never go as planned though, so I'm planning on those plans to not go according to plan.
+Yep, that's about it. But hey, I still got a lot of years to learn new things. For now I am trying out a few languages to see what I like. My next goal is checking out Rust, but for now I intend to focus on improving what I am currently learning, instead of trying out too much at once.
 
 **Learning timeline**
 * Q1 2021 - Q2 2023 (estimated end)
