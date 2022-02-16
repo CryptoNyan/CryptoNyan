@@ -9,8 +9,8 @@ My goal is to get a nice IT job and personally create some good open-source soft
 ### My programming skills
 | Language | Skill Level |
 | --- | --- |
-|C# | Beginner |
-|JavaScript | Very Basic |
+|C# | Basic |
+|JavaScript | Beginner |
 
 Yep, that's about it. But hey, I still got a lot of years to learn new things. For now I am trying out a few languages to see what I like. My next goal is checking out Rust, but for now I intend to focus on improving what I am currently learning, instead of trying out too much at once.
 
