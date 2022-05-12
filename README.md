@@ -25,8 +25,8 @@ Yep, that's about it. But hey, I still got a lot of years to learn new things. F
   * Learned C# at school
 * Q2 2021 - Q3 2021
   * Learned Unity basics
-* Q1 2022 - Unkown
-  * Learning frontend web dev through FrontendMasters
+* Q1 2022 - Q2 2022
+  * Learned frontend web dev through FrontendMasters, completing the three courses available through GitHub Education
 
 ### Note about Skill Levels
 Obviously these terms are very subjective, kinda vague, and leave out a lot of nuance. They simply exist as a general explanation of my own confidence in my abilities. For more details, feel free to contact me.
@@ -40,4 +40,4 @@ Anyways, here's a general explanation of the currently used terms, as I see them
 (More coming once I get better)
 
 ### Contacting me
-If for whatever reason you need to contact me, send me a Twitter dm. I don't check that account often though, so please be patient. I don't tend to use twitter, it's just a nice contact option.
+Currently rather difficult. Maybe add an issue on this Repo and I'll see what I can do.
